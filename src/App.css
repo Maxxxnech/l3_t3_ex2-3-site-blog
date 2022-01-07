@@ -4,14 +4,19 @@
   max-width: 100%;
   display: flex;
   flex-flow: column;
-  justify-content: space-between;
-
+  justify-content: start;
+  overflow:auto;
    /*ie10*/
    display: -ms-flexbox;
    -ms-flex-direction: column;
 }
 
-
+.wrapper {
+  background-color: red;
+  max-height: 80vh;
+  display:flex;
+  flex-grow: 0;
+}
 
 
 
