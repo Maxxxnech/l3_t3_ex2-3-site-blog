@@ -4,3 +4,15 @@
 button.bp3-button:nth-child(n + 2){    
     margin-top: 10px;
 }
+
+@media screen and (max-width: 900px) {
+    button.bp3-button span {
+       font-size: smaller;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    button.bp3-button span.bp3-button-text {
+       display: none;
+    }
+  }
