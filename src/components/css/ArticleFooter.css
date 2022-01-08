@@ -1,0 +1,8 @@
+section.articleSection footer.articleFooter{
+    bottom: 0;
+    background-color: lightcyan;
+    min-height:10%;
+    width: 100%;
+    padding: 2px;
+    font-style: italic;
+}

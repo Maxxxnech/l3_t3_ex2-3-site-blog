@@ -1,0 +1,25 @@
+footer.mainFooter {
+    /*position:absolute;
+    bottom: 0;*/
+    background-color: cyan;
+    width: 100%;
+    border-top: orange solid 1px;
+    padding-left: 10px;
+}
+
+footer table{
+   background-color: transparent;
+   width: 100%;
+}
+
+footer th{
+ padding-left: 0;
+ text-align: left;
+ text-decoration: underline;
+ color: darkblue;
+}
+
+footer td{
+    width: 16%
+}
+

@@ -1,0 +1,14 @@
+article{
+    text-align: justify;
+    padding: 1%;
+    overflow: auto;
+    height: auto;
+   /*scroll-bar to left*/
+   /*direction: rtl*/
+}
+
+article img {
+   float: left;
+   margin: 1px;
+}
+

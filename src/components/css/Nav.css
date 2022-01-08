@@ -1,0 +1,17 @@
+nav {
+    background: linear-gradient(slateblue 50%, cyan);
+    /*width: 8%;
+    position:absolute;
+    left: 0;
+    height: 80%
+    */
+    width: auto;
+    /*height: 100vh;*/
+}
+
+nav .bp3-button-group {
+    position:sticky; 
+    top: 1px;
+}
+
+

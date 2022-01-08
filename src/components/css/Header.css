@@ -1,0 +1,13 @@
+header.mainHeader{
+    background: linear-gradient(blue, slateblue);
+    min-height: 10vh;
+    height: auto;
+    text-align: center;
+    color:ivory;
+    margin: 0
+}
+
+header.mainHeader h1 {
+    margin:0;
+    padding-top: 10px;
+}

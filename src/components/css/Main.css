@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-flow: row;
+  justify-content: first baseline;
+  align-items: flex-start;
+  flex-grow: 1;
+  background:linear-gradient(steelblue, cyan);
+  flex-wrap: wrap;
+  overflow-y: auto;
+  overflow-x: hidden;
+  /*width: 70%;
+  right: 10%;
+  position: absolute;*/
+}

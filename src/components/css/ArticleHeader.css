@@ -1,0 +1,7 @@
+section.articleSection header{
+    background-color: lightblue;
+    text-align: center;
+    min-height:10%;
+    width: 100%;
+    padding: 2px;
+}

@@ -1,0 +1,6 @@
+
+/* every button but first one have margin-top: 10px*/
+/* as margin-bottom:10px does not work!*/
+button.bp3-button:nth-child(n + 2){    
+    margin-top: 10px;
+}

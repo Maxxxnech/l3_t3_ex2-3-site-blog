@@ -1,0 +1,17 @@
+[
+    {
+        "href": "#",
+        "text": "Главная",
+        "icon": "home"
+    },
+    {
+        "href": "#",
+        "text": "О нас",
+        "icon": "person"
+    },
+    {
+        "href": "#",
+        "text": "Контакты",
+        "icon": "phone"
+    }
+]
