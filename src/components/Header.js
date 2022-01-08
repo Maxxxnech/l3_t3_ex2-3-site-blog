@@ -9,7 +9,7 @@ export default class Header extends Component {
         return(
             <header className="mainHeader">
                 <h1>{this.props.text}</h1> 
-                <p style={{margin: 0, color: "orange", fontStyle:"italic"}}>Кнопки навигации - декоративные (blueprintjs). Таблица подвала - динамическая</p>
+                <p style={{margin: 0, color: "orange", fontStyle:"italic", fontSize: "smaller"}}>{this.props.altText}</p>
             </header>
         )
     }

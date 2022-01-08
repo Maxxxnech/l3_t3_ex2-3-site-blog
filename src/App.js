@@ -16,7 +16,7 @@ import copyright from "./data/copyright.json";
 function App() {
   return (
     <div className="App">
-      <Header text="Блог (тема 3 упр. 2 - 3)" />
+      <Header text="Блог (тема 3 упр. 2 - 3)" altText="Кнопки навигации - декоративные (blueprintjs). Таблица подвала - динамическая. Минимальная адаптивность к экрану" />
       <Wrapper
         navItems={navItems}
         articles={articles}
